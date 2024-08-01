@@ -1,0 +1,3 @@
+The Vue app is based on https://github.com/creativetimofficial/vue-soft-ui-dashboard, because I don't like front-end development.
+
+This template helped me understand Vue js and I think I like it more than I did yesterday.
